@@ -8,3 +8,7 @@
       b. code reuseablility
       c. debugging
       d. easy to colab
+5. End to end project (chatbook) 
+6. Encapsulation
+7. getter and setter
+8. static      
